@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "$GLDNDOG — Golden Retriever on Solana",
+      "hasCanvas": false,
+      "bodyTextLen": 2256,
+      "bodyTextHash": "764ab14c5186e615f27a9246ea8c4b42eb9a792f6930f0163a86b633a9c8ec03",
+      "bodyTextPrefix": "$GLDNDOG Chart Tokenomics Roadmap Community Join TG Follow on X ",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "$GLDNDOG — Golden Retriever on Solana",
+      "hasCanvas": false,
+      "bodyTextLen": 2167,
+      "bodyTextHash": "5ca47de5b33cd66478e466e1f54865a3b9908e379c8640301d8993c299dfd8b2",
+      "bodyTextPrefix": "$GLDNDOG SOLANA MEME COIN $GLDNDOG Retrieve $GOLD with a Heart o",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}
